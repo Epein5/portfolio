@@ -1,4 +1,4 @@
-![image](assets/readme-photo.png)
+<!-- ![image](assets/readme-photo.png)
  
 # World's first AI portfolio 🤖✨  
 
@@ -67,4 +67,6 @@ Want to run this project locally? Here's what you need:
 
 #### 🔖 Tags
 
-`#AIPortfolio` `#InnovationInTech` `#DigitalResume` `#JobSearch` `#TechInnovation` `#WebDevelopment` `#FutureTech`
+`#AIPortfolio` `#InnovationInTech` `#DigitalResume` `#JobSearch` `#TechInnovation` `#WebDevelopment` `#FutureTech` -->
+
+## YEP it is copied. So what
